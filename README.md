@@ -31,7 +31,7 @@ Introx includes user authentication, onboarding, introduction generation,
 multiple message suggestions, saving and selecting preferred messages, and
 caller-based automatic introduction functionality.
 
-The application is live on the Google Play Store. [Live Link]([https://devsamagri.com/](https://play.google.com/store/apps/details?id=com.abhitribhuvan.introx))
+The application is live on the Google Play Store. [Live Link](https://play.google.com/store/apps/details?id=com.abhitribhuvan.introx)
 
 ---
 
