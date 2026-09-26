@@ -20,7 +20,7 @@ technology and business operations.
 
 The project gives me hands-on experience with software development,
 e-commerce workflows, product decisions, and understanding real customer
-and business requirements.
+and business requirements. [Live Link](https://devsamagri.com/)
 
 ### 📱 Introx
 
@@ -31,7 +31,7 @@ Introx includes user authentication, onboarding, introduction generation,
 multiple message suggestions, saving and selecting preferred messages, and
 caller-based automatic introduction functionality.
 
-The application is live on the Google Play Store.
+The application is live on the Google Play Store. [Live Link]([https://devsamagri.com/](https://play.google.com/store/apps/details?id=com.abhitribhuvan.introx))
 
 ---
 
